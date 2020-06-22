@@ -4,7 +4,7 @@
 			"image": "discordia.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 304,
+				"w": 471,
 				"h": 55
 			},
 			"scale": 1,
@@ -94,6 +94,27 @@
 					}
 				},
 				{
+					"filename": "run_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 42,
+						"h": 50
+					},
+					"frame": {
+						"x": 182,
+						"y": 1,
+						"w": 42,
+						"h": 50
+					}
+				},
+				{
 					"filename": "run_1.png",
 					"rotated": false,
 					"trimmed": true,
@@ -108,7 +129,28 @@
 						"h": 50
 					},
 					"frame": {
-						"x": 182,
+						"x": 226,
+						"y": 1,
+						"w": 39,
+						"h": 50
+					}
+				},
+				{
+					"filename": "run_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 39,
+						"h": 50
+					},
+					"frame": {
+						"x": 267,
 						"y": 1,
 						"w": 39,
 						"h": 50
@@ -129,7 +171,28 @@
 						"h": 47
 					},
 					"frame": {
-						"x": 223,
+						"x": 308,
+						"y": 1,
+						"w": 39,
+						"h": 47
+					}
+				},
+				{
+					"filename": "run_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 39,
+						"h": 47
+					},
+					"frame": {
+						"x": 349,
 						"y": 1,
 						"w": 39,
 						"h": 47
@@ -150,7 +213,28 @@
 						"h": 46
 					},
 					"frame": {
-						"x": 264,
+						"x": 390,
+						"y": 1,
+						"w": 39,
+						"h": 46
+					}
+				},
+				{
+					"filename": "run_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 39,
+						"h": 46
+					},
+					"frame": {
+						"x": 431,
 						"y": 1,
 						"w": 39,
 						"h": 46
@@ -162,6 +246,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:c047ebc9c383cc4349b0415c6e5e7c16:3bfcf65b4e3890b1076a79cc81039ca5:1f1cb890968dc887d80d753412ad0f85$"
+		"smartupdate": "$TexturePacker:SmartUpdate:a0fa5d529826b0ff889333a7c37d21c9:52587f1323cc70d111a5a266fe2f0de4:1f1cb890968dc887d80d753412ad0f85$"
 	}
 }
