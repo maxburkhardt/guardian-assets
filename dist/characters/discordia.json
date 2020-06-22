@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "discordia.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 304,
+				"h": 55
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "idle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 106,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 5,
+						"w": 43,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 43,
+						"h": 53
+					}
+				},
+				{
+					"filename": "idle_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 106,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 6,
+						"w": 45,
+						"h": 52
+					},
+					"frame": {
+						"x": 46,
+						"y": 1,
+						"w": 45,
+						"h": 52
+					}
+				},
+				{
+					"filename": "idle_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 106,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 6,
+						"w": 43,
+						"h": 52
+					},
+					"frame": {
+						"x": 93,
+						"y": 1,
+						"w": 43,
+						"h": 52
+					}
+				},
+				{
+					"filename": "run_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 7,
+						"w": 42,
+						"h": 50
+					},
+					"frame": {
+						"x": 138,
+						"y": 1,
+						"w": 42,
+						"h": 50
+					}
+				},
+				{
+					"filename": "run_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 10,
+						"w": 39,
+						"h": 50
+					},
+					"frame": {
+						"x": 182,
+						"y": 1,
+						"w": 39,
+						"h": 50
+					}
+				},
+				{
+					"filename": "run_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 12,
+						"w": 39,
+						"h": 47
+					},
+					"frame": {
+						"x": 223,
+						"y": 1,
+						"w": 39,
+						"h": 47
+					}
+				},
+				{
+					"filename": "run_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 6,
+						"w": 39,
+						"h": 46
+					},
+					"frame": {
+						"x": 264,
+						"y": 1,
+						"w": 39,
+						"h": 46
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c047ebc9c383cc4349b0415c6e5e7c16:3bfcf65b4e3890b1076a79cc81039ca5:1f1cb890968dc887d80d753412ad0f85$"
+	}
+}
